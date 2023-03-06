@@ -1,5 +1,5 @@
 
-# hola, mi nombre es jJaiver Gonzalez Giraldo
+# hola, mi nombre es Jaiver Gonzalez Giraldo
 ## yo soy desarrollador en herramientas tecnologicas como .Net 
 
 Me desempreño en mi empresa como **creador de microservicios** en .Net 6, 
