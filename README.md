@@ -12,3 +12,10 @@ igualmente implementación de la pagina web.
 3. publicación en servidor de pruebas y ambiente de producción
 4. Generación de Url para conexión a través de ocelont 
 5. Implementación de pagina web, con .Net y JavaScript
+
+
+
+```
+cualquier duda estaré pendiente
+
+```
