@@ -1,6 +1,6 @@
 
-# hola, mi nombre es Jaiver Gonzalez Giraldo
-## yo soy desarrollador en herramientas tecnologicas como .Net 
+# Soy Jaiver Stiven Gonzalez Giraldo
+## soy desarrollador en herramientas tecnologicas como .Net, JavaScript, Html 
 
 Me desempreño en mi empresa como **creador de microservicios** en .Net 6, 
 igualmente implementación de la pagina web.
